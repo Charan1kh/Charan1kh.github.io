@@ -1,0 +1,20 @@
+main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgba(255, 255, 255, 0.1);
+  text-transform: uppercase;
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 3px;
+}
+
+#scroll {
+  position: fixed;
+  top: 0;
+  height: 5px;
+  background-color: #bd5d38;
+  /*background-image: linear-gradient(120deg, #bd5e38, #bd5d38, #7c2300); */
+  width: 0;
+  transition: width 0.1s ease;
+}

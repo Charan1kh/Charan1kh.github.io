@@ -1,0 +1,41 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 1fe0475..66705d8 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -218,9 +218,8 @@[m [mI enjoy designing websites.</p>[m
+             [m
+                 [m
+                   <li class="list-inline-item">[m
+[31m-                    <i class="devicons devicons-c-plain"></i>[m
+[31m-                    <i class="devicon-c-plain"></i>[m
+[31m-                    C Programming[m
+[32m+[m[32m                    <i class="devicon-numpy-original"></i>[m[41m[m
+[32m+[m[32m                    NumPy[m[41m[m
+                   </li>[m
+               [m
+ [m
+[36m@@ -245,11 +244,12 @@[m [mI enjoy designing websites.</p>[m
+                 [m
+             [m
+                 [m
+[32m+[m[32m                <!--[m[41m[m
+                   <li class="list-inline-item">[m
+[31m-                    <i class="devicons devicons-react"></i>[m
+[31m-                    ReactJS[m
+[32m+[m[32m                  <i class="devicons devicons-react"></i>[m[41m[m
+[32m+[m[32m                  ReactJS[m[41m[m
+                   </li>[m
+[31m-                [m
+[32m+[m[32m                -->[m[41m[m
+             [m
+             </ul>[m
+     [m
+[36m@@ -276,7 +276,7 @@[m [mI enjoy designing websites.</p>[m
+                     Git[m
+                   </li>[m
+                 [m
+[31m-            [m
+[32m+[m[41m[m
+                 [m
+                   <li class="list-inline-item">[m
+                     <i class="devicons devicons-visualstudio"></i>[m

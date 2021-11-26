@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Charan K</title>
+    <link>https://charan1kh.github.io/publications/</link>
+    <description>Recent content in Publications on Charan K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://charan1kh.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL TIME FACE MASK DETECTION IN VIDEO DATA</title>
+      <link>https://charan1kh.github.io/publications/alldaydevops/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/publications/alldaydevops/</guid>
+      <description>In response to the ongoing COVID-19 pandemic, we present a robust deep learning pipeline that is capable of identifying correct and incorrect mask-wearing from realtime video streams. To accomplish this goal, there are two prominent separate approaches available, evaluating their performance and run-time efficiency can be considered for real-world Usages. The first approach leverages a pretrained face detector in combination with a mask-wearing image classifier trained on a large-scale synthetic dataset.</description>
+    </item>
+    
+  </channel>
+</rss>

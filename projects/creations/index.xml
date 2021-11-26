@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Charan K</title>
+    <link>https://charan1kh.github.io/projects/creations/</link>
+    <description>Recent content in Projects on Charan K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://charan1kh.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Agriculture Crop Management System  </title>
+      <link>https://charan1kh.github.io/projects/creations/acms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/acms/</guid>
+      <description>The Agriculture Crop Management System is gaining more importance as the number of its users is increasing rapidly. As the number is rising there is a need of effective management of Crop Details, one such effective system is our Agriculture Management System its designed using HTML and CSS for frontend and SQLITE3 as backend database. The actions like login, register, add, delete, retrieve are provided. The Agriculture Crop Management System stores the details like User_ID, Name, Phone No, Email, of the users who visits.</description>
+    </item>
+    
+    <item>
+      <title>Deepfake Creation and Detection Using Cycle GANs</title>
+      <link>https://charan1kh.github.io/projects/creations/deep-fakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/deep-fakes/</guid>
+      <description>Deepfake Creation and Detection Using Cycle GANs Deep learning has been successfully applied to a variety of complex problems, ranging from big data analytics to computer vision and human-level control, using Cycle GANs. However, advances in deep learning have also been used to develop software that can cause threats to privacy, democracy, and national security. Deepfake is a popular technique based on artificial intelligence for image synthesis. As it can produce images without paired training data, it is more powerful than traditional image-to-image translation.</description>
+    </item>
+    
+    <item>
+      <title>ImageStack</title>
+      <link>https://charan1kh.github.io/projects/creations/imagestack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/imagestack/</guid>
+      <description>ImageStack is a web project for sharing stock photography images. Simple and minimal site with user logIn, download functions. I&amp;rsquo;m currently working on this project to implement Like, save &amp;amp; other options using ReactJS and SQL.</description>
+    </item>
+    
+  </channel>
+</rss>

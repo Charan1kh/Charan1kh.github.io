@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Charan K</title>
+    <link>https://charan1kh.github.io/</link>
+    <description>Recent content in Home on Charan K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://charan1kh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REAL TIME FACE MASK DETECTION IN VIDEO DATA</title>
+      <link>https://charan1kh.github.io/publications/alldaydevops/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/publications/alldaydevops/</guid>
+      <description>In response to the ongoing COVID-19 pandemic, we present a robust deep learning pipeline that is capable of identifying correct and incorrect mask-wearing from realtime video streams. To accomplish this goal, there are two prominent separate approaches available, evaluating their performance and run-time efficiency can be considered for real-world Usages. The first approach leverages a pretrained face detector in combination with a mask-wearing image classifier trained on a large-scale synthetic dataset.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://charan1kh.github.io/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title> Agriculture Crop Management System  </title>
+      <link>https://charan1kh.github.io/projects/creations/acms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/acms/</guid>
+      <description>The Agriculture Crop Management System is gaining more importance as the number of its users is increasing rapidly. As the number is rising there is a need of effective management of Crop Details, one such effective system is our Agriculture Management System its designed using HTML and CSS for frontend and SQLITE3 as backend database. The actions like login, register, add, delete, retrieve are provided. The Agriculture Crop Management System stores the details like User_ID, Name, Phone No, Email, of the users who visits.</description>
+    </item>
+    
+    <item>
+      <title>Deepfake Creation and Detection Using Cycle GANs</title>
+      <link>https://charan1kh.github.io/projects/creations/deep-fakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/deep-fakes/</guid>
+      <description>Deepfake Creation and Detection Using Cycle GANs Deep learning has been successfully applied to a variety of complex problems, ranging from big data analytics to computer vision and human-level control, using Cycle GANs. However, advances in deep learning have also been used to develop software that can cause threats to privacy, democracy, and national security. Deepfake is a popular technique based on artificial intelligence for image synthesis. As it can produce images without paired training data, it is more powerful than traditional image-to-image translation.</description>
+    </item>
+    
+    <item>
+      <title>ImageStack</title>
+      <link>https://charan1kh.github.io/projects/creations/imagestack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/projects/creations/imagestack/</guid>
+      <description>ImageStack is a web project for sharing stock photography images. Simple and minimal site with user logIn, download functions. I&amp;rsquo;m currently working on this project to implement Like, save &amp;amp; other options using ReactJS and SQL.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://charan1kh.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://charan1kh.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
