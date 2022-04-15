@@ -128,3 +128,10 @@ div.skills-heading{
     .advteaser-container:hover .img-top {
         display: inline;
     }
+
+      @media only screen and (max-width: 300px) {
+        .pptSize{
+          display: flex;
+        }
+      }
+    
