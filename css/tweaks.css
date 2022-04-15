@@ -129,9 +129,3 @@ div.skills-heading{
         display: inline;
     }
 
-      @media only screen and (max-width: 300px) {
-        .pptSize{
-          display: flex;
-        }
-      }
-    
