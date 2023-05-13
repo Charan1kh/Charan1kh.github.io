@@ -616,6 +616,22 @@ Explored ways to visualize GitHub collaboration in a classroom setting.</p>
 
     gtag('config', 'XX-123446-01');
   </script>
+  <script>
+    <head>
+      let visitorCount = 0;
+      function incrementVisitorCount() {
+        const count = localStorage.getItem('visitorCount');const count = localStorage.getItem('visitorCount');
+        if (count !== null) {
+      visitorCount = parseInt(count);
+        }
+      visitorCount++;
+        localStorage.setItem('visitorCount', visitorCount.toString());localStorage.setItem('visitorCount', visitorCount.toString());
+        document.getElementById('visitorCount').textContent = visitorCount.toString();
+      }
+      window.onload = incrementVisitorCount;
+      
+  </script>
+  <p>Total Visitors: <span id="visitorCount">0</span></p>
   
 
   
